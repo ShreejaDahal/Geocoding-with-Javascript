@@ -1,0 +1,59 @@
+
+body {
+	font-family: "Verdana",arial;
+	padding: 2em;
+	background-color: hsla(89, 43%, 51%, 0.3);
+}
+
+button {
+	border-radius: 10px;
+
+}
+#start_page {
+	margin-top: 10px;
+}
+input{
+	width: 30%;
+}
+#map_id{
+	
+	padding: 1em;
+	width:65%;
+	height: 600px;
+	margin-right: 20px;
+	padding-top: -25px;
+	padding-left: 10px;
+	padding-right: 25px;
+	border:1px white solid;
+	margin-top: 15px;
+	margin-right: auto;
+}
+#Maplist {
+	float: right;
+	padding-top: 65px;
+	padding-right: 2px;
+	padding-left:10px;
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	border-top-width: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+
+li{
+		padding-left: 2px;
+		padding-right: 2px;
+		padding-top:15px;
+		text-align:center;
+		list-style-type:none;
+		border-style: solid;
+		border-width: 4px;
+		border-radius: 15px;
+		margin-bottom:0.5em;
+		background-color: lightgrey;
+		border-color: white;
+		font-size: medium;
+		
+	}
+	
